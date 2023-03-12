@@ -1,0 +1,24 @@
+C:\Users\Kaboo\Downloads\Question-1-Starting-Code (1)\Question 1\CourseMarkLibrary\bin\Debug\net6.0\CourseMarkLibrary.deps.json
+C:\Users\Kaboo\Downloads\Question-1-Starting-Code (1)\Question 1\CourseMarkLibrary\bin\Debug\net6.0\CourseMarkLibrary.dll
+C:\Users\Kaboo\Downloads\Question-1-Starting-Code (1)\Question 1\CourseMarkLibrary\bin\Debug\net6.0\CourseMarkLibrary.pdb
+C:\Users\Kaboo\Downloads\Question-1-Starting-Code (1)\Question 1\CourseMarkLibrary\obj\Debug\net6.0\CourseMarkLibrary.csproj.AssemblyReference.cache
+C:\Users\Kaboo\Downloads\Question-1-Starting-Code (1)\Question 1\CourseMarkLibrary\obj\Debug\net6.0\CourseMarkLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaboo\Downloads\Question-1-Starting-Code (1)\Question 1\CourseMarkLibrary\obj\Debug\net6.0\CourseMarkLibrary.AssemblyInfoInputs.cache
+C:\Users\Kaboo\Downloads\Question-1-Starting-Code (1)\Question 1\CourseMarkLibrary\obj\Debug\net6.0\CourseMarkLibrary.AssemblyInfo.cs
+C:\Users\Kaboo\Downloads\Question-1-Starting-Code (1)\Question 1\CourseMarkLibrary\obj\Debug\net6.0\CourseMarkLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Kaboo\Downloads\Question-1-Starting-Code (1)\Question 1\CourseMarkLibrary\obj\Debug\net6.0\CourseMarkLibrary.dll
+C:\Users\Kaboo\Downloads\Question-1-Starting-Code (1)\Question 1\CourseMarkLibrary\obj\Debug\net6.0\refint\CourseMarkLibrary.dll
+C:\Users\Kaboo\Downloads\Question-1-Starting-Code (1)\Question 1\CourseMarkLibrary\obj\Debug\net6.0\CourseMarkLibrary.pdb
+C:\Users\Kaboo\Downloads\Question-1-Starting-Code (1)\Question 1\CourseMarkLibrary\obj\Debug\net6.0\ref\CourseMarkLibrary.dll
+C:\Users\Kaboo\OneDrive\Desktop\School\INFO5060-Programming-with-NET\Midterm\Question 1\CourseMarkLibrary\bin\Debug\net6.0\CourseMarkLibrary.deps.json
+C:\Users\Kaboo\OneDrive\Desktop\School\INFO5060-Programming-with-NET\Midterm\Question 1\CourseMarkLibrary\bin\Debug\net6.0\CourseMarkLibrary.dll
+C:\Users\Kaboo\OneDrive\Desktop\School\INFO5060-Programming-with-NET\Midterm\Question 1\CourseMarkLibrary\bin\Debug\net6.0\CourseMarkLibrary.pdb
+C:\Users\Kaboo\OneDrive\Desktop\School\INFO5060-Programming-with-NET\Midterm\Question 1\CourseMarkLibrary\obj\Debug\net6.0\CourseMarkLibrary.csproj.AssemblyReference.cache
+C:\Users\Kaboo\OneDrive\Desktop\School\INFO5060-Programming-with-NET\Midterm\Question 1\CourseMarkLibrary\obj\Debug\net6.0\CourseMarkLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaboo\OneDrive\Desktop\School\INFO5060-Programming-with-NET\Midterm\Question 1\CourseMarkLibrary\obj\Debug\net6.0\CourseMarkLibrary.AssemblyInfoInputs.cache
+C:\Users\Kaboo\OneDrive\Desktop\School\INFO5060-Programming-with-NET\Midterm\Question 1\CourseMarkLibrary\obj\Debug\net6.0\CourseMarkLibrary.AssemblyInfo.cs
+C:\Users\Kaboo\OneDrive\Desktop\School\INFO5060-Programming-with-NET\Midterm\Question 1\CourseMarkLibrary\obj\Debug\net6.0\CourseMarkLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Kaboo\OneDrive\Desktop\School\INFO5060-Programming-with-NET\Midterm\Question 1\CourseMarkLibrary\obj\Debug\net6.0\CourseMarkLibrary.dll
+C:\Users\Kaboo\OneDrive\Desktop\School\INFO5060-Programming-with-NET\Midterm\Question 1\CourseMarkLibrary\obj\Debug\net6.0\refint\CourseMarkLibrary.dll
+C:\Users\Kaboo\OneDrive\Desktop\School\INFO5060-Programming-with-NET\Midterm\Question 1\CourseMarkLibrary\obj\Debug\net6.0\CourseMarkLibrary.pdb
+C:\Users\Kaboo\OneDrive\Desktop\School\INFO5060-Programming-with-NET\Midterm\Question 1\CourseMarkLibrary\obj\Debug\net6.0\ref\CourseMarkLibrary.dll

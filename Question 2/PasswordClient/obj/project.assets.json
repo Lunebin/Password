@@ -1,0 +1,119 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "SoapFormatter/1.1.9": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/SoapFormatter.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SoapFormatter.dll": {}
+        }
+      },
+      "PasswordLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/PasswordLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PasswordLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SoapFormatter/1.1.9": {
+      "sha512": "9okRnHpuoOKlTlxid6sddSjZ0OVGbK4EjSf3VvxOLnQfTkV3iGZzSQa2ZYYuD+apairVrPqwZ3lPvcFqR8b7Kw==",
+      "type": "package",
+      "path": "soapformatter/1.1.9",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/SoapFormatter.dll",
+        "soapformatter.1.1.9.nupkg.sha512",
+        "soapformatter.nuspec"
+      ]
+    },
+    "PasswordLibrary/1.0.0": {
+      "type": "project",
+      "path": "../PasswordLibrary/PasswordLibrary.csproj",
+      "msbuildProject": "../PasswordLibrary/PasswordLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "PasswordLibrary >= 1.0.0",
+      "SoapFormatter >= 1.1.9"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Kaboo\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Kaboo\\Downloads\\Midterm_ET\\Midterm_ET\\Question 2\\PasswordClient\\PasswordClient.csproj",
+      "projectName": "PasswordClient",
+      "projectPath": "C:\\Users\\Kaboo\\Downloads\\Midterm_ET\\Midterm_ET\\Question 2\\PasswordClient\\PasswordClient.csproj",
+      "packagesPath": "C:\\Users\\Kaboo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Kaboo\\Downloads\\Midterm_ET\\Midterm_ET\\Question 2\\PasswordClient\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Kaboo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Kaboo\\Downloads\\Midterm_ET\\Midterm_ET\\Question 2\\PasswordLibrary\\PasswordLibrary.csproj": {
+              "projectPath": "C:\\Users\\Kaboo\\Downloads\\Midterm_ET\\Midterm_ET\\Question 2\\PasswordLibrary\\PasswordLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "SoapFormatter": {
+            "target": "Package",
+            "version": "[1.1.9, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

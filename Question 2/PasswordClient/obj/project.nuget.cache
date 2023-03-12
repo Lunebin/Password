@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I90KWKxTDCVXb4SPxBezVzJHwKC5hxaG0wvTL4bn2IzB6Un57dccL3b/cchWKFOXUKv4p9PTeypgnMHilKSd1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kaboo\\Downloads\\Midterm_ET\\Midterm_ET\\Question 2\\PasswordClient\\PasswordClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kaboo\\.nuget\\packages\\soapformatter\\1.1.9\\soapformatter.1.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}
